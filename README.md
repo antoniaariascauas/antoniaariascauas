@@ -1,6 +1,8 @@
 # Hi, I'm Antonia Arias
 
-Data Scientist | Credit risk modeling, optimization & forecasting | Building ML pipelines that solve real business problems — from feature engineering to production-ready models.
+Data Scientist | Credit risk modeling, optimization & forecasting | Python, R, LightGBM | Building ML pipelines that solve real business problems.
+
+> **Note:** This is a newly created public profile. My previous work has been in private repositories and proprietary codebases. The projects here are built with public datasets to demonstrate the same skills and methodologies I apply professionally — without exposing any confidential data or business logic.
 
 ## What I work on
 
