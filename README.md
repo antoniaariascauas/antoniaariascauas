@@ -47,6 +47,7 @@ Data Scientist | Recommender systems, credit risk & forecasting | Python, R, Lig
 
 | Project | Description |
 |---------|-------------|
+| [Fund Allocation Optimization](https://github.com/antoniaariascauas/fund-allocation-optimization) | MILP assigning invoices to investment funds — maximize capital deployment under per-fund mandates (eligibility filters, concentration & weighted-average covenants) |
 | [Combinatorial Optimization](https://github.com/antoniaariascauas/combinatorial-optimization) | MIP with Gurobi — meeting role assignment and periodic vehicle routing for healthcare |
 
 ### Causal Inference & Econometrics
