@@ -1,11 +1,12 @@
 # Hi, I'm Antonia Arias
 
-Data Scientist | Credit risk modeling, optimization & forecasting | Python, R, LightGBM | Building ML pipelines that solve real business problems.
+Data Scientist | Recommender systems, credit risk & forecasting | Python, R, LightGBM | Building ML pipelines that solve real business problems.
 
 > **Note:** This is a newly created public profile. My previous work has been in private repositories and proprietary codebases. The projects here are built with public datasets to demonstrate the same skills and methodologies I apply professionally — without exposing any confidential data or business logic.
 
 ## What I work on
 
+- **Recommender Systems** — Learning-to-rank, candidate generation, and causal A/B evaluation of personalization
 - **Credit & Risk Modeling** — Propensity scoring, default prediction, business-driven evaluation metrics
 - **Optimization** — Resource allocation and routing problems using mathematical programming
 - **Forecasting** — Time series prediction for demand planning and business operations
@@ -14,7 +15,7 @@ Data Scientist | Credit risk modeling, optimization & forecasting | Python, R, L
 ## Tech Stack
 
 **Languages:** Python, R, SQL  
-**ML/DS:** scikit-learn, LightGBM, XGBoost, NeuralProphet, statsmodels  
+**ML/DS:** scikit-learn, LightGBM, XGBoost, CatBoost, NeuralProphet, statsmodels  
 **Optimization:** PuLP, OR-Tools, Gurobi  
 **Tools:** pandas, NumPy, Jupyter, Git, Docker  
 **Visualization:** matplotlib, seaborn, ggplot2  
@@ -40,7 +41,7 @@ Data Scientist | Credit risk modeling, optimization & forecasting | Python, R, L
 
 | Project | Description |
 |---------|-------------|
-| [Retail Sales Forecasting](https://github.com/antoniaariascauas/retail-sales-forecasting) | Multi-model pipeline: Prophet, LightGBM, and baselines for weekly store-department sales |
+| [Retail Sales Forecasting](https://github.com/antoniaariascauas/retail-sales-forecasting) | End-to-end pipeline: engineered time-series features, LightGBM vs naive/seasonal baselines for weekly store-department sales |
 | [Visit Forecasting](https://github.com/antoniaariascauas/visit-forecasting-neuralprophet) | Time series forecasting with NeuralProphet and macroeconomic explanatory variables |
 
 ### Optimization
