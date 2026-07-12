@@ -57,6 +57,7 @@ Data Scientist | Credit risk modeling, optimization & forecasting | Python, R, L
 | Project | Description |
 |---------|-------------|
 | [Email Triage Agent](https://github.com/antoniaariascauas/email-triage-agent) | LLM-powered agent that classifies emails by urgency and generates prioritized action plans |
+| [Orbit Wars](https://github.com/antoniaariascauas/orbit-wars) | Anytime game-playing agent — first-principles beam search with exact combat modeling & opponent tracking (pure Python) |
 
 ## Let's connect
 
