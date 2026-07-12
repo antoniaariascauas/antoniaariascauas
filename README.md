@@ -33,6 +33,7 @@ Data Scientist | Recommender systems, credit risk & forecasting | Python, R, Lig
 | Project | Description |
 |---------|-------------|
 | [Credit Risk Scoring Pipeline](https://github.com/antoniaariascauas/credit-risk-scoring-pipeline) | End-to-end credit scoring with LightGBM — EDA, feature engineering, model evaluation with business metrics (KS, Gini) |
+| [WiDS Datathon 2026](https://github.com/antoniaariascauas/wids-datathon-2026-time-to-threat) | Datathon submission: time-to-threat prediction with hazard modeling, ensemble methods, and calibration |
 | [Learning Analytics](https://github.com/antoniaariascauas/learning-analytics-prediction) | Student outcome prediction from 96MB+ of platform interaction logs — data engineering + ML pipeline |
 | [Salary Classification](https://github.com/antoniaariascauas/salary-classification-by-major) | Classification model predicting salary ranges based on university major |
 
@@ -49,6 +50,7 @@ Data Scientist | Recommender systems, credit risk & forecasting | Python, R, Lig
 |---------|-------------|
 | [Fund Allocation Optimization](https://github.com/antoniaariascauas/fund-allocation-optimization) | MILP assigning invoices to investment funds — maximize capital deployment under per-fund mandates (eligibility filters, concentration & weighted-average covenants) |
 | [Combinatorial Optimization](https://github.com/antoniaariascauas/combinatorial-optimization) | MIP with Gurobi — meeting role assignment and periodic vehicle routing for healthcare |
+| [Orbit Wars](https://github.com/antoniaariascauas/orbit-wars) | Kaggle simulation competition — anytime beam-search game agent with exact combat modeling & opponent tracking (pure Python) |
 
 ### Causal Inference & Econometrics
 
@@ -64,13 +66,6 @@ Data Scientist | Recommender systems, credit risk & forecasting | Python, R, Lig
 | Project | Description |
 |---------|-------------|
 | [Email Triage Agent](https://github.com/antoniaariascauas/email-triage-agent) | LLM-powered agent that classifies emails by urgency and generates prioritized action plans |
-
-### Competitions & Datathons
-
-| Project | Description |
-|---------|-------------|
-| [WiDS Datathon 2026](https://github.com/antoniaariascauas/wids-datathon-2026-time-to-threat) | Time-to-threat prediction with hazard modeling, ensemble methods, and calibration |
-| [Orbit Wars](https://github.com/antoniaariascauas/orbit-wars) | Kaggle simulation competition — anytime beam-search game agent with exact combat modeling & opponent tracking (pure Python) |
 
 ## Let's connect
 
