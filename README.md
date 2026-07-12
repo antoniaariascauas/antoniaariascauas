@@ -21,6 +21,12 @@ Data Scientist | Credit risk modeling, optimization & forecasting | Python, R, L
 
 ## Projects
 
+### Recommender Systems
+
+| Project | Description |
+|---------|-------------|
+| [Post-Purchase Recommender](https://github.com/antoniaariascauas/post-purchase-recommender) | Engineering thesis — hybrid post-purchase recommender for cross-selling (candidate generation → learning-to-rank with XGBoost/CatBoost/RankNet), validated with a production A/B test and causal fixed-effects models |
+
 ### Machine Learning
 
 | Project | Description |
